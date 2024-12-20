@@ -48,6 +48,9 @@ M(i, j) with i, j in [0, 16]
 M(i, j) = distance between Di and Dj
 This distance matrix will be loaded from a CSV file.
 
+![Screenshot 2024-12-20 135134](https://github.com/user-attachments/assets/4c9f4867-7c2f-4547-b1e4-5c4b3bf6b2ab)
+
+
 They represent all the locations we must cover in the centre's scope.
 
 What about the volumes of parcels?
@@ -66,6 +69,8 @@ Optimize the routing to minimize the distance covered per route
 
 
 Results
+
+![Screenshot 2024-12-20 135321](https://github.com/user-attachments/assets/e5e9f873-8000-4dc9-803d-c6994d0be325)
 
 
 
